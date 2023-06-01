@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "programming_magic"
+  site-url: "https://tkinder.github.io/programming_magic"
+  description: "Programming magic site"
+  repo-branch: main
+  repo-url: "https://github.com/tkinder/programming_magic"
